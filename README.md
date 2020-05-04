@@ -1,6 +1,6 @@
 # Kaggle Google Analytics Customer Revenue Prediction
 
-Files and codes with our solution to the Kaggle Google Analytics Customer Revenue Prediction competition.
+Files and codes with our solution to the [Kaggle Google Analytics Customer Revenue Prediction competition](https://www.kaggle.com/c/ga-customer-revenue-prediction).
 
 
 ## Project summary
