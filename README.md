@@ -15,7 +15,8 @@ This project works with a two-year data set with user transactions in the Google
 ## Project structure
 
 The project has the following structure:
-- `codes/`:  Jupyter notebooks with Python codes for data preparation, modeling and ensembling
+- `codes/`: Python codes implementing data preprocessing and feature engineering
+- `notebooks/`:  Jupyter notebooks covering data preparation, modeling and ensembling
 - `data/`: input data (not included due to size constraints and can be downloaded [here](https://www.kaggle.com/c/ga-customer-revenue-prediction/data))
 - `oof_preds/`: out-of-fold predictions produced by the trained models within cross-validation
 - `submissions/`: test set predictions produced by the trained models
